@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\ICellYte\\Project_Proctor\\project_proctor\\assets\\icons\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

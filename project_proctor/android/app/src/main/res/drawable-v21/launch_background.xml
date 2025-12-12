@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Custom launch splash screen matching app design -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Blue gradient background -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="linear"
+                android:angle="270"
+                android:startColor="#1A2947"
+                android:centerColor="#2779F5"
+                android:endColor="#1D63D8" />
+        </shape>
+    </item>
+</layer-list>
